@@ -2,7 +2,7 @@
 pkg update && pkg upgrade
 pkg install bash
 pkg install git
-git clone https://github.com/randykyle77/onex
+git clone https://github.com/randykyle76/Crack-fb
 cd onex
 chmod +x onex
 chmod +x install
